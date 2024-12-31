@@ -155,6 +155,12 @@ if __name__ == "__main__":
     app = ProxyViewerApp()
 
     while True:
+        print("#################################################")
+        print("#   DougoBrasil:Gerador de Visualiçaões V1.0++  #")
+        print("#  -------------------------------------------- #")
+        print("#            Redes Sociais (oficiais)           #")
+        print("#    @dougobrasil_oficial  www.dougobrasil.com  #")
+        print("#################################################")
         print("\n=== Painel de Controle ===")
         print("1. Adicionar Proxies")
         print("2. Abrir Janelas")
